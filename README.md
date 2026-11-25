@@ -1,5 +1,4 @@
 # automaed-email-reader
-for run the application click on index.
-click on automated email reminder system 
+click on automated email reminder system zip file
 after that click on index option
 as you now we can see our automated email remainder works properly
